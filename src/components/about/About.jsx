@@ -13,8 +13,10 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p> ""Our agency, RentUP, blends passion for real estate with a commitment to client satisfaction. With integrity and expertise, we guide clients through personalized journeys, ensuring transparent and communicative experiences."
+</p>
+            <p>"At RentUP, our streamlined process starts with understanding client goals. We leverage market insights for effective strategies, offering detailed analysis, strategic marketing, and expert negotiation. Trust us to turn your real estate aspirations into reality."
+</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>
